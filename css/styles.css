@@ -1236,9 +1236,9 @@ img#nu-logo {
   }
 }
 
-/* ======= RESUME ======= */
+/* ======= CV ======= */
 
-#resume {
+#CV {
   background: url(../img/laptop-blur.jpg);
   background-size: cover;
   background-position: center;
@@ -1248,7 +1248,7 @@ img#nu-logo {
   color: #fff;
 }
 
-#resume .overlay {
+#CV .overlay {
   background: -moz-linear-gradient(
     top,
     rgba(0, 0, 0, 0.8) 0%,
@@ -1301,11 +1301,11 @@ img#nu-logo {
   background-attachment: fixed;
 }
 
-#resume h2 {
+#CV h2 {
   color: #fff;
 }
 
-a.resume-btn {
+a.CV-btn {
   background: none;
   display: inline-block;
   padding: 10px 20px;
@@ -1321,8 +1321,8 @@ a.resume-btn {
   transition: all 0.3s ease-in-out;
 }
 
-a.resume-btn:hover,
-a.resume-btn:active {
+a.CV-btn:hover,
+a.CV-btn:active {
   /*background-position: -100% 100%;*/
   color: #fff;
   /*font-weight: 400;*/

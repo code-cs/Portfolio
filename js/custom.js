@@ -26,7 +26,7 @@ $(function() {
 		offset: '50%'
 	});
 
-	/* Resume Button */
+	/* CV Button */
 	$('.wp4').waypoint(function() {
 		$('.wp4').addClass('animated bounceIn');
 	}, {
